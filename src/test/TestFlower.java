@@ -13,8 +13,8 @@ class FlowerTest {
     }
 
     @Test
-    if True{return True}
+    if true{return true}
 
     @Test
-    True
+    true
 }
